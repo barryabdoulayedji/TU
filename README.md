@@ -1,4 +1,4 @@
-# Présentation vidéo – Djibril Barry
+# Présentation vidéo – Abdoulaye Djibril Barry
 
 [![GitHub Pages](https://img.shields.io/badge/Voir%20la%20vidéo-En%20ligne-2ea44f?style=for-the-badge)](https://tonpseudo.github.io/presentation-video/)
 
