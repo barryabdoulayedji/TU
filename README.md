@@ -1,28 +1,26 @@
-# Présentation vidéo – Abdoulaye Djibril Barry
+# Présentation Abdoulaye Djibril Barry
 
-[![GitHub Pages](https://img.shields.io/badge/Voir%20la%20vidéo-En%20ligne-2ea44f?style=for-the-badge)](https://tonpseudo.github.io/presentation-video/)
+[![Voir la vidéo](https://img.shields.io/badge/Voir%20la%20vidéo-En%20ligne-2ea44f?style=for-the-badge)](https://barryabdoulayedji.github.io/Abdoulaye-Djibril-Barry/Presentation.mp4)
 
-Bienvenue sur mon projet de présentation vidéo.  
-Ce site web affiche automatiquement une vidéo dès qu’on l’ouvre. Il a été conçu avec HTML5 et CSS pour une lecture fluide, sans téléchargement manuel.
+Ce projet est une vidéo de présentation personnelle réalisée dans le cadre d’un recours gracieux, afin de renforcer ma candidature et de mieux exprimer ma motivation.
 
 ## ▶️ Lien vers la vidéo
-Cliquez ici pour la voir directement :  
-**➡️ https://tonpseudo.github.io/presentation-video/**
 
-## Aperçu
-![Aperçu de la vidéo](capture-ecran.png)
-
-> *Ajoutez une image nommée `capture-ecran.png` pour qu’elle s’affiche ici.*
+Cliquez ici pour voir la vidéo automatiquement :  
+**➡️ [https://barryabdoulayedji.github.io/Abdoulaye-Djibril-Barry/Presentation.mp4](https://barryabdoulayedji.github.io/Abdoulaye-Djibril-Barry/Presentation.mp4)**
 
 ## Détails techniques
-- Langages : **HTML**, **CSS**
-- Lecture automatique, silencieuse (autoplay, muted, playsinline)
-- Compatible PC, mobile et tablette
+
+- Développement avec **HTML5** et **CSS3**
+- Lecture automatique : `autoplay`, `muted`, `playsinline`
+- Affichage fluide sur **PC**, **tablette** et **mobile**
+- Hébergement via **GitHub Pages**
 
 ## À propos de moi
+
 Je m'appelle **Barry Abdoulaye Djibril**, étudiant en première année de licence en ingénierie de la construction à l’Université Necmettin Erbakan (Turquie).  
-Ce projet fait partie de ma démarche pour me présenter dans le cadre de candidatures académiques et professionnelles.
+Ce projet s’inscrit dans ma démarche de candidature pour poursuivre mes études en France dans le domaine du génie civil.
 
 ## Licence
-© 2025 – Djibril Barry. Tous droits réservés.
 
+© 2025 – Barry Abdoulaye Djibril. Tous droits réservés.
